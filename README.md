@@ -1,5 +1,5 @@
 # responsive-navbar
-I built a responsive navbar with dropdown using Html, Css and JavaScript
+I built a college website with using Html and Css
 
 #### Demo: https://shubhamkumar1920.github.io/website-c/
 
